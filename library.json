@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-3-axis-accelerometer-module--mma7361-",
+  "title": "3-axis-accelerometer-module--mma7361-",
+  "keywords": "3-axis-accelerometer-module--mma7361-, esp32, esp8266, arduino",
+  "description": "3-axis-accelerometer-module--mma7361- plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-3-axis-accelerometer-module--mma7361-/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-3-axis-accelerometer-module--mma7361-/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
